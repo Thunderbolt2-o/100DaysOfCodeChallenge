@@ -34,7 +34,7 @@ print(len(input("What is your name?")))
 # Yay!😋 variables, these are used to store data. It can be changed anytime
 # variables dont start with a number and it should not have no spaces
 challenge = "100DaysOfCode"
-print("Size of the variable challenge is " +len(challenge))
+print(len(challenge))
 
 # coding exercise swaping direct solution is pasted here
 # 🚨 Don't change the code below 👇
@@ -62,4 +62,5 @@ city = input("In which you have grown up?\n")
 #3. Ask the user for the name of a pet.
 pet_name = input("what is the name of your pet?\n")
 #4. Combine the name of their city and pet and show them their band name.
-print("Your band name can be" + city +" "+ pet_name)
+print("Your band name can be " + city +" "+ pet_name)
+
