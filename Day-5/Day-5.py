@@ -25,3 +25,39 @@ for numbers in range(1,101):
   if numbers % 2 == 0:
     even_sum += numbers
 print(even_sum)
+
+# Code exercise average of the heights
+
+# 🚨 Don't change the code below 👇
+student_heights = input("Input a list of student heights ").split()
+for n in range(0, len(student_heights)):
+  student_heights[n] = int(student_heights[n])
+# 🚨 Don't change the code above 👆
+t_height = 0
+n = 0
+# 156 178 165 171 187
+# 180, 124, 165, 173, 189, 169, 146
+#Write your code below this row 👇
+for height in student_heights:
+  t_height += height
+  n += 1
+new_avg_height = round(t_height/(n)) 
+
+print(new_avg_height)
+
+# Code exercise Max score
+
+# 🚨 Don't change the code below 👇
+student_scores = input("Input a list of student scores ").split()
+for n in range(0, len(student_scores)):
+  student_scores[n] = int(student_scores[n])
+print(student_scores)
+# 🚨 Don't change the code above 👆
+
+#Write your code below this row 👇
+
+max_score = 0
+for score in student_scores:
+  if score > max_score:
+   max_score = score  
+print(max_score)
