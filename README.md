@@ -1,8 +1,11 @@
 # 100DaysOfCodeChallenge
 A long journey just started....
+
+
 ![CODING](https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif)
 
 Day:- 0️⃣1️⃣ Getting started with python 🐍
+![alt text](https://github.com/Thunderbolt2-o/100DaysOfCodeChallenge/blob/main/Day-1/Day%201.png)
 ![DAY - 1](Day-1/Day 1.png)
 Day:- 0️⃣2️⃣ Data types and strings
 ![DAY - 2](Day-2/Screenshot (408).png)
