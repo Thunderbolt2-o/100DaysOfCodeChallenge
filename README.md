@@ -1,10 +1,12 @@
 # 100DaysOfCodeChallenge
-<h1>A long journey just started....</h1>
+<h3A long journey just started....</h3>
 
 
 ![CODING](https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif)
 <br>
-Day:- 0️⃣1️⃣ Getting started with python 🐍
+<h4>Day:- 0️⃣1️⃣ Getting started with python 🐍</h4>
+<img src="https://github.com/Thunderbolt2-o/100DaysOfCodeChallenge/blob/main/Day-1/Day%201.png" width="500" height="600">
+
 ![alt text](https://github.com/Thunderbolt2-o/100DaysOfCodeChallenge/blob/main/Day-1/Day%201.png)
 <br>
 Day:- 0️⃣2️⃣ Data types and strings
