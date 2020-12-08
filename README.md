@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" width="500" height="500">
 <br>
 <h4>Day:- 0️⃣1️⃣ Getting started with python 🐍</h4>
-<img src="https://github.com/Thunderbolt2-o/100DaysOfCodeChallenge/blob/main/Day-1/Day%201.png" width="1280" height="720" >
+<img src="https://github.com/Thunderbolt2-o/100DaysOfCodeChallenge/blob/main/Day-1/Day%201.png" width="1280" height="680" >
 
 <br>
 <h4>Day:- 0️⃣2️⃣ Data types and strings</h4>
