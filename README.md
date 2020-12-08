@@ -1,20 +1,20 @@
 # 100DaysOfCodeChallenge
 <h3A long journey just started....</h3>
 
-
-![CODING](https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif)
+<img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" width="300" height="300">
 <br>
 <h4>Day:- 0️⃣1️⃣ Getting started with python 🐍</h4>
-<img src="https://github.com/Thunderbolt2-o/100DaysOfCodeChallenge/blob/main/Day-1/Day%201.png" width="500" height="600">
+<img src="https://github.com/Thunderbolt2-o/100DaysOfCodeChallenge/blob/main/Day-1/Day%201.png" width="300" height="300" >
 
-![alt text](https://github.com/Thunderbolt2-o/100DaysOfCodeChallenge/blob/main/Day-1/Day%201.png)
 <br>
-Day:- 0️⃣2️⃣ Data types and strings
-![DAY - 2](https://github.com/Thunderbolt2-o/100DaysOfCodeChallenge/blob/main/Day-2/Screenshot%20(408).png)
+<h4>Day:- 0️⃣2️⃣ Data types and strings</h4>
+<img src="https://github.com/Thunderbolt2-o/100DaysOfCodeChallenge/blob/main/Day-2/Screenshot%20(408).png" width="300" height="300" >
 <br>
-Day:- 0️⃣3️⃣ Conditional statements and operators
-![TREASURE HUNT](https://github.com/Thunderbolt2-o/100DaysOfCodeChallenge/blob/main/Day-3/Day%203.png)
+
+<h4>Day:- 0️⃣3️⃣ Conditional statements and operators</h4>
+<img src="https://github.com/Thunderbolt2-o/100DaysOfCodeChallenge/blob/main/Day-3/Day%203.png" width="300" height="300" >
 <br>
+
 Day:- 0️⃣4️⃣ Lists, Randomizing, and use of modules
 ![ROCK PAPER SCISSORS](https://github.com/Thunderbolt2-o/100DaysOfCodeChallenge/blob/main/Day-4/Rock_paper_scissors%20.gif)
 <br>
